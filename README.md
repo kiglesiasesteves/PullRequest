@@ -1,4 +1,4 @@
-# Trabajando con PUll Request (FORK)
+# Trabajando con Pull Request (FORK)
 
 El líder crea el repositorio y comparte el link del repositorio con el colaborador.
 
